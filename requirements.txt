@@ -1,0 +1,11 @@
+# external requirements
+pandas
+numpy
+seaborn
+matplotlib
+streamlit
+fastapi
+python-dotenv>=0.5.1
+dash==2.16.1
+dash-html-components==2.0.0
+dash-core-components==2.0.0
