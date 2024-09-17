@@ -7,4 +7,4 @@ A retail outlet wnats to get ahead of other market participants in the business 
 - Predicting the price of diamonds as per its specifications.
 - Help keep track of their profits and help cut losses.
 - Know which diamonds are in high demand.
-- Model implementation using Streamlit.
+- Model implementation using Streamlit and FASTAPI
